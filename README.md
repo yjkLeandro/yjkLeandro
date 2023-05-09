@@ -4,10 +4,10 @@
   <img src="https://user-images.githubusercontent.com/102531267/224816958-376cb141-9f93-4616-8bd7-2e62656cf608.png" />
 </div>
 
-#### Me chamo Leandro, integrante do 3° ano do Ensino Medio integrado ao Curso Técnico em Desenvolvimento de Sistemas.
-##### Repositório criado para colocar as atividades da área técnica.
+#### Me chamo Leandro, estudo programação e desenvolvimento de jogos e aplicativos.
+##### Repositório criado para compartilhar as coisas que faço!
 
-## 🐱‍💻 Tecnologias que estudamos:
+## 🐱‍💻 Tecnologias que uso:
 <div style="display : inline_block"><br/>
   <img align="center" alt="shell script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
